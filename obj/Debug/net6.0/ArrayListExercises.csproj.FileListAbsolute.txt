@@ -1,0 +1,15 @@
+C:\Users\patri\source\repos\ArrayListExercises\ArrayListExercises\bin\Debug\net6.0\ArrayListExercises.exe
+C:\Users\patri\source\repos\ArrayListExercises\ArrayListExercises\bin\Debug\net6.0\ArrayListExercises.deps.json
+C:\Users\patri\source\repos\ArrayListExercises\ArrayListExercises\bin\Debug\net6.0\ArrayListExercises.runtimeconfig.json
+C:\Users\patri\source\repos\ArrayListExercises\ArrayListExercises\bin\Debug\net6.0\ArrayListExercises.dll
+C:\Users\patri\source\repos\ArrayListExercises\ArrayListExercises\bin\Debug\net6.0\ref\ArrayListExercises.dll
+C:\Users\patri\source\repos\ArrayListExercises\ArrayListExercises\bin\Debug\net6.0\ArrayListExercises.pdb
+C:\Users\patri\source\repos\ArrayListExercises\ArrayListExercises\obj\Debug\net6.0\ArrayListExercises.csproj.AssemblyReference.cache
+C:\Users\patri\source\repos\ArrayListExercises\ArrayListExercises\obj\Debug\net6.0\ArrayListExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\source\repos\ArrayListExercises\ArrayListExercises\obj\Debug\net6.0\ArrayListExercises.AssemblyInfoInputs.cache
+C:\Users\patri\source\repos\ArrayListExercises\ArrayListExercises\obj\Debug\net6.0\ArrayListExercises.AssemblyInfo.cs
+C:\Users\patri\source\repos\ArrayListExercises\ArrayListExercises\obj\Debug\net6.0\ArrayListExercises.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\ArrayListExercises\ArrayListExercises\obj\Debug\net6.0\ArrayListExercises.dll
+C:\Users\patri\source\repos\ArrayListExercises\ArrayListExercises\obj\Debug\net6.0\ref\ArrayListExercises.dll
+C:\Users\patri\source\repos\ArrayListExercises\ArrayListExercises\obj\Debug\net6.0\ArrayListExercises.pdb
+C:\Users\patri\source\repos\ArrayListExercises\ArrayListExercises\obj\Debug\net6.0\ArrayListExercises.genruntimeconfig.cache
